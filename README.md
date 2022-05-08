@@ -1,0 +1,5 @@
+- 👋 it's @0drWrd0 here
+-  I’m interested in learning more about c++
+-     🌱 I’m currently learning c++
+-  I’m looking to collaborate on big projects 
+- You can reach me on divinebh13@gmail.com
